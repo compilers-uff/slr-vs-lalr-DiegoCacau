@@ -1,3 +1,11 @@
+# Aluno
+
+Nome: Diego Carrico Cacau
+
+Matrícula: 115031076
+
+
+
 # SLR vs LALR
 
 Trabalho da disciplina Compiladores 2021.1
